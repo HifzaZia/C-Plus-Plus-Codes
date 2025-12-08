@@ -182,4 +182,5 @@ int main(){
     string e;
 	e="abababa";
     cout << checkString(e);
+
 	}
